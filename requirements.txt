@@ -1,4 +1,0 @@
-pytelegrambotapi
-telebot
-config
-gunicorn
